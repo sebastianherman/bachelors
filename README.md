@@ -18,6 +18,8 @@ There are three main folders in this repository:
 * Scikit: this folder contains two subfolders, each containing the notebooks for 2 rating and 3 rating classifications. These two folders contain each 6 folders, each subfolder containing the notebook which was used for classifying the reviews according to the folders description. For example **simple_tfidf** stands for TFIDF + unigram.
 * Text Preprocessing: this folder contains the Jupyter Notebook which was used for text pre-processing.
 
+4. Sql Queries: this folder contains the SQL script that was used for extracting the data out of the database provided by Prof. Bing Liu.
+
 ## Prerequisites
 
 - Python version 3.5 or higher, preferably installed using Anaconda
